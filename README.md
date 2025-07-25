@@ -1,5 +1,7 @@
 # 🚀 Vicente Peyrot | Portfólio de Desenvolvimento
 
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Vicente%20Peyrot&fontSize=40&fontAlignY=35&desc=Analista%20e%20Desenvolvedor%20Full%20Stack%20em%20formação&descAlignY=60)
+---
 Bem-vindo ao meu portfólio! Aqui você encontra uma seleção dos meus principais projetos, experiências e habilidades como desenvolvedor. Sou apaixonado por tecnologia, inovação e sempre em busca de crescimento pessoal e profissional.
 
 ---
@@ -33,7 +35,22 @@ Bem-vindo ao meu portfólio! Aqui você encontra uma seleção dos meus principa
 | **Geraddor de senhas** | Gerador de senhas fortes e confiaveis. | Python, bibliotecas |
 
 
+---
 
+### Linguagens e Ferramentas
+
+| Tecnologia     | Nível de Proficiência |
+|----------------|------------------------|
+| **HTML**       | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ (90%) |
+| **CSS**        | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ (70%) |
+| **JavaScript** | 🔵🔵🔵⚪⚪⚪⚪⚪⚪⚪ (30%) |
+| **Python**     | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ (70%) |
+| **SQL**        | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ (70%) |
+| **Git/GitHub** | 🔵🔵🔵🔵🔵⚪⚪⚪⚪⚪ (50%) |
+
+> 🔵 = domínio | ⚪ = em progresso
+
+---
 ---
 
 ## 🧩 Soft Skills
@@ -50,7 +67,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra uma seleção dos meus principa
 
 📧 vicentepeyrot@gmail.com  
 📱 51 999388919  
-🌐 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/vicente-peyrot-16bb78196))  
+🌐 [LinkedIn](https://www.linkedin.com/in/vicente-peyrot-16bb78196)  
 
 
 ---
@@ -60,3 +77,5 @@ Bem-vindo ao meu portfólio! Aqui você encontra uma seleção dos meus principa
 Se quiser acompanhar meus projetos e aprendizados, fique à vontade para dar uma ⭐ no repositório e me seguir aqui no GitHub!
 
 ---
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer)
+
